@@ -8,6 +8,7 @@
     <artifactId>jcommander</artifactId>
     <version>1.48</version>
 </dependency>
+
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
